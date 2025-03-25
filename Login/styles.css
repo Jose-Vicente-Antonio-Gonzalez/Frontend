@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./imgs/Violet.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Edu AU VIC WA NT Guides";
+    font-optical-sizing: auto;
+    font-weight: 750;
+}
+
+.title{
+    color:#8d33ea;
+    font-size: 3vw;
+    font-weight: 750;
+}
+
+.form-container{
+    width:40%;
+    height: 80%;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(173, 173, 173, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+.form-login{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    align-items: center;
+}
+
+.btn{
+    width: 30%;
+    height: 7%;
+    font-weight: 700;
+    border: 2px solid #a355f7;
+    color: #8d33ea;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.a{
+   color: #8d33ea;
+}
+.check{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    border: 2px solid #8d33ea;
+    color: #8d33ea;
+    font-size: 12px;
+}
+.form-element{
+   
+    color: #8d33ea;
+    border-radius: 5px;
+    height: 3%;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.foot{
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.input{
+    color: #4c345c;
+    border-color: #c79ae6;
+    border-radius: 30px;
+    height: 120%;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.input1{
+    color: #796e4c;
+    border-color: #f2dd95;
+    border-radius: 30px;
+    height: 120%;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./imgs/green.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Edu AU VIC WA NT Guides";
+    font-weight: 750;
+    text-size-adjust: auto;
+}
+
+h1{
+    color:#2c6937;
+    font-size: 3vw;
+    font-weight: 750;
+}
+
+
+
+.form-container1{
+    width:40%;
+    height: 120%;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(173, 173, 173, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+.form-login1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    align-items: center;
+}
+
+.btn1{
+    width: 30%;
+    height: 7%;
+    font-weight: 700;
+    border: 2px solid #9dd8a6;
+    color: #2c6937;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.check1{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    border: 2px solid #2c6937;
+    color: #2c6937;
+    font-size: 12px;
+}
+.a1{
+    color: #2c6937;
+}
+.form-element1{
+    color: #2c6937;
+    border-radius: 30px;
+    height: 3%;
+}
+
+.head1{
+
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.foot1{
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    text-size-adjust: auto;
+}

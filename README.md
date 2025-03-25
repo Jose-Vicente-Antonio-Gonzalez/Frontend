@@ -7,12 +7,6 @@
 
 ## Repositorio con proyectos de desarrollo Front End
 
-## Proyectos:
+Este repositorio contiene una colección de proyectos frontend. Cada proyecto se crea utilizando HTML, CSS y JavaScript.
 
-| Proyecto                                | Descripción                               |                                                                                                      |                                                                                              |
-| --------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Landing Page with GSAP Animations**   | Landing page utilizando GSAP              | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Landing-Page-animation) | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Landing-Page-animation/)     |
-| **Responsive Vertical Timeline**        | Línea de tiempo responsiva                | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/Timeline)               | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Timeline/)                   |
-| **Landing Page with Tailwind**          | Landing page utilizando Tailwind          | [Ver Código](https://github.com/JFelixZuniga/Super-Mario-World)                                      | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/Super-Mario-World-Tailwind/) |
-| **Toggle Button - Dark and Light Mode** | Toggle Button con activación de dark mode | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/ToggleButton-DarkMode)  | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/ToggleButton-DarkMode/)      |
-| **CSS 3D Text Animation Effects**       | Línea de tiempo responsiva                | [Ver Código](https://github.com/JFelixZuniga/Frontend-Projects/tree/gh-pages/3D-Text-Animation)      | [Ver Proyecto](https://jfelixzuniga.github.io/Frontend-Projects/3D-Text-Animation//)         |
+Cada carpeta contiene algunos ejercicios ejecutables en cualquier navegador con solo abrir el archivo 'index.html' de cada carpeta/ejecicio
